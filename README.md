@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tianhao Chen
+# 👋 Hi, I'm Tianhao
 
 > AI Agent Developer / LLM Application Engineer  
 > Focus on RAG, Agent Workflow, MCP Tools, and AI Engineering.
