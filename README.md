@@ -1,8 +1,4 @@
 # 👋 Hi, I'm Tianhao
-
-> AI Agent Developer / LLM Application Engineer  
-> Focus on RAG, Agent Workflow, MCP Tools, and AI Engineering.
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-7C3AED?style=for-the-badge)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-FF5722?style=for-the-badge)
