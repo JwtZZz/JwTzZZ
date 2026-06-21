@@ -18,3 +18,4 @@ A slightly clumsy but hardworking builder, trying to become smarter one project 
 
 - GitHub: [JwtZZz](https://github.com/JwtZZz)
 - Email: kelongjwtzzz@gmail.com
+- WeChat: MoraleKaeru
