@@ -10,11 +10,15 @@
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
 
-
 ---
 
 ## 🧠 About Me
-A slightly clumsy but hardworking builder, trying to become smarter one project at a time.
+
+Student developer. I build and break things.
+
+Mostly working on AI agents, Web3 tools, backend systems, and small experiments that accidentally become projects.
+
+I like reading code, forking repos, modifying weird stuff, and figuring out how systems really work under the hood.
 
 ## 📫 Contact
 
